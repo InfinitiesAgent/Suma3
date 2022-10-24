@@ -58,7 +58,6 @@ namespace Suma3
                     nums.Add(i + 1);
                 }
 
-                // Permute(ref nums, 0, (int)n - 1);
                 IEnumerable<IEnumerable<int>> subsets = SubSetsOf<int>(nums);
                 brute = 0;
                 for (int i = 0; i < subsets.Count(); i++)
@@ -94,34 +93,6 @@ namespace Suma3
             return haves.Concat(haveNots);
         }
 
-        private static void Permute(ref List<int> list, int from, int to)
-        {
-            if (from == to)
-            {
-                PrintList(list);
-                return;
-            }
-
-            for (int i = from; i <= to; i++)
-            {
-                Swap(ref list, i, from);
-                Permute(ref list, from + 1, to);
-                Swap(ref list, i, from);
-            }
-        }
-
-        private static void Swap(ref List<int> list, int i, int j)
-        {
-            if (i == j)
-            {
-                return;
-            }
-
-            int temp = list[i];
-            list[i] = list[j];
-            list[j] = temp;
-        }
-
         private static void PrintList(List<int> list)
         {
             if (list.Count == 0)
@@ -145,15 +116,5 @@ namespace Suma3
             }
             Console.WriteLine(s);
         }
-
-        /*int F(int x, int n)
-        {
-            int ret = 1;
-            for (int i = 0; i < n; i++)
-            {
-                ret *= 1 + (int)Math.Pow(x, i + 1);
-            }
-            return ret;
-        }*/
     }
 }

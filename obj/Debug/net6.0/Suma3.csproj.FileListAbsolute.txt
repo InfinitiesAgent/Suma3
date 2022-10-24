@@ -1,0 +1,15 @@
+C:\Users\barto\OneDrive\Pulpit\CSharp\Suma3\bin\Debug\net6.0\Suma3.exe
+C:\Users\barto\OneDrive\Pulpit\CSharp\Suma3\bin\Debug\net6.0\Suma3.deps.json
+C:\Users\barto\OneDrive\Pulpit\CSharp\Suma3\bin\Debug\net6.0\Suma3.runtimeconfig.json
+C:\Users\barto\OneDrive\Pulpit\CSharp\Suma3\bin\Debug\net6.0\Suma3.dll
+C:\Users\barto\OneDrive\Pulpit\CSharp\Suma3\bin\Debug\net6.0\Suma3.pdb
+C:\Users\barto\OneDrive\Pulpit\CSharp\Suma3\obj\Debug\net6.0\Suma3.csproj.AssemblyReference.cache
+C:\Users\barto\OneDrive\Pulpit\CSharp\Suma3\obj\Debug\net6.0\Suma3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barto\OneDrive\Pulpit\CSharp\Suma3\obj\Debug\net6.0\Suma3.AssemblyInfoInputs.cache
+C:\Users\barto\OneDrive\Pulpit\CSharp\Suma3\obj\Debug\net6.0\Suma3.AssemblyInfo.cs
+C:\Users\barto\OneDrive\Pulpit\CSharp\Suma3\obj\Debug\net6.0\Suma3.csproj.CoreCompileInputs.cache
+C:\Users\barto\OneDrive\Pulpit\CSharp\Suma3\obj\Debug\net6.0\Suma3.dll
+C:\Users\barto\OneDrive\Pulpit\CSharp\Suma3\obj\Debug\net6.0\refint\Suma3.dll
+C:\Users\barto\OneDrive\Pulpit\CSharp\Suma3\obj\Debug\net6.0\Suma3.pdb
+C:\Users\barto\OneDrive\Pulpit\CSharp\Suma3\obj\Debug\net6.0\Suma3.genruntimeconfig.cache
+C:\Users\barto\OneDrive\Pulpit\CSharp\Suma3\obj\Debug\net6.0\ref\Suma3.dll
